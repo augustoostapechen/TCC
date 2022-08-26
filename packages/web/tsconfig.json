@@ -1,0 +1,13 @@
+{
+	"extends": "../../tsconfig.json",
+	"compilerOptions": {
+		"useDefineForClassFields": true,
+		"lib": ["DOM", "DOM.Iterable", "ESNext"],
+		"allowJs": false,
+		"allowSyntheticDefaultImports": true,
+		"strict": true,
+
+		"jsx": "react"
+	},
+	"include": ["./src/**/*"]
+}

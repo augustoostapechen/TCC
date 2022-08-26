@@ -1,0 +1,3 @@
+{
+	"extends": ["@tcc/eslint-config"]
+}

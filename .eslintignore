@@ -1,0 +1,5 @@
+.eslintrc.json
+packages/**/*.json
+packages/**/*.js
+node_modules
+dist
